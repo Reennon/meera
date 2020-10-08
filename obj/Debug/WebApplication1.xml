@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WebApplication1
+</name>
+</assembly>
+<members>
+<member name="T:WebApplication1.My.MyWebExtension">
+ <summary>
+ Модуль, используемый для определения свойств, доступных в My Namespace для веб-проектов.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:WebApplication1.My.MyWebExtension.Computer">
+ <summary>
+ Возвращает информацию о главном компьютере.
+ </summary>
+</member>
+<member name="P:WebApplication1.My.MyWebExtension.User">
+ <summary>
+ Возвращает сведения о текущем веб-пользователе.
+ </summary>
+</member>
+<member name="P:WebApplication1.My.MyWebExtension.Request">
+ <summary>
+ Возвращает объект Request.
+ </summary>
+</member>
+<member name="P:WebApplication1.My.MyWebExtension.Response">
+ <summary>
+ Возвращает объект Response.
+ </summary>
+</member>
+<member name="P:WebApplication1.My.MyWebExtension.Log">
+ <summary>
+ Возвращает объект журнала ASP.
+ </summary>
+</member>
+</members>
+</doc>
